@@ -42,7 +42,7 @@ The name of screenshots is the md5 hash of picture.
 
 ## Author
 
-* **Mario Parra** - *mrb0b0t* - [mrb0b0t_ml](https://github.com/mrb0b0t_ml)
+* **Mario Parra** - *mrb0b0t* - [mrb0b0t_ml](https://github.com/mpalonso)
 
 
 ## License
